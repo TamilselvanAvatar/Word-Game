@@ -1,3 +1,2 @@
 # Word-Game
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-wordgame)
+  1. Flames

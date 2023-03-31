@@ -1,0 +1,11 @@
+header {
+  font-style: italic;
+  font-size: x-large;
+  color: white;
+  background-color: rgb(154, 89, 214);
+  border: 1px solid blueviolet;
+  border-radius: 12px;
+  text-align: center;
+  margin: auto;
+  padding: 15px;
+}
